@@ -1,0 +1,16 @@
+{
+  "frameCnt": 1459889, 
+  "channels": [
+    "ECG", 
+    "EDA", 
+    "BVP"
+  ], 
+  "duration_sec": 1459.889, 
+  "version": "BioLink_V1.4", 
+  "subjectId": "pilot1", 
+  "dateStr": "13/12/2017 13:36", 
+  "pluxMac": "00:07:80:79:6F:E0", 
+  "fs": 1000, 
+  "experimentId": "Experiment01", 
+  "extension": "Experiment"
+}

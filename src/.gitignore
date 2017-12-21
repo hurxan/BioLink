@@ -1,0 +1,6 @@
+*.pyc
+
+/plux_logger_wnd.glade~
+
+/main.pyc
+/settings.json
