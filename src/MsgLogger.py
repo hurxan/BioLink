@@ -59,14 +59,15 @@ def msgLoop():
     while True:
         try:
             msg = msgLogQueue.get(True, 0.1)    #blocking, 0.1 sec timeout
-            
+            msg = msg.encode('ascii', 'ignore')
+
             if isinstance(msg,str):
                 msgAction(logFile,msg)
             elif isinstance(msg,int) and msg == -1:
                 break
             else:
                 msgAction(logFile,"MsgLog Error: invalid msg type, expected string.")
-                raise Exception, "MsgLog Error: invalid msg type, expected string."
+                #raise Exception("MsgLog Error: invalid msg type, expected string.")
             
         except Queue.Empty:
             continue

@@ -21,8 +21,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 This module provides the interface class to communicate with Plux devices.
 """
 import sys
-sys.path.append(r"C:\Plux\OpenSignals (r)evolution\code\modules\WIN32")     #path of plux library
-import plux     #@UnresolvedImport
+sys.path.append(r"C:\Plux\OpenSignals (r)evolution\resources\app\code\modules\WIN32")     #path of plux library
+import plux
 import threading
 import time
 import math
