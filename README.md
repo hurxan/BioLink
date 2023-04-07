@@ -29,4 +29,4 @@ The following steps show how to set up BioLink on a Windows® platform, using th
 Launching BioLink for the very first time can take up to a few minutes, as all the Python source code will be compiled at first run.
 
 ## Further information and instruction
-Please refer to the manual (BioLink_Manual.pdf) for further information.
+Please refer to the manual (Manual.pdf) for further information.
