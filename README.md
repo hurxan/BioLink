@@ -139,15 +139,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contact
-
-Andrei Senyuva - hurcanandrei.senyuva@unipd.it
-
-[Project Link](https://github.com/hurxan/BioLink)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
